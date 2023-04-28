@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "381986273800",
+    "project_id": "mypass-7d375",
+    "storage_bucket": "mypass-7d375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381986273800:android:289d08c24ad7d33ad5efbd",
+        "android_client_info": {
+          "package_name": "com.example.mypass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381986273800-42ob4gl64f2e21bg2c6s5rsoctjjaqac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypass",
+            "certificate_hash": "d3958e6eef53ae744a851354ac64a0b04e2d3d37"
+          }
+        },
+        {
+          "client_id": "381986273800-gf0s9lep74ek10issovjh1ns0qolefk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSsLqtN09clHAHnKGbPg7S66JCtv0ENo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381986273800-gf0s9lep74ek10issovjh1ns0qolefk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "381986273800-gvbg81po6mmbuqud56e3j9tc076ipsqd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digifaz.mypass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
